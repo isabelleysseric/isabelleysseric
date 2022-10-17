@@ -8,13 +8,15 @@
   <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129"/>  
 </p>
 
+
+
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-<!--
 **isabelleysseric/isabelleysseric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 http://inspirationfeeed.files.wordpress.com/2013/08/racespin1.gif
