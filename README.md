@@ -9,7 +9,7 @@
 #### You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif" alt="Pacman" />  
+  <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" />  
 </p>
 
 
