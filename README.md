@@ -1,8 +1,18 @@
-### Hi there 👋
+### Welcome on ma GitHub page. 
+
+Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
+
+All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science.
+
+You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif" alt="Welcome" />  
+</p>
 
 <!--
 **isabelleysseric/isabelleysseric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
