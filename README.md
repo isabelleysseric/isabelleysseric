@@ -1,4 +1,4 @@
-### Welcome on ma GitHub page 👋
+### Welcome to my GitHub page 👋
 
 #### Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
 
