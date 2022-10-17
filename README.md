@@ -1,18 +1,36 @@
-### Welcome on ma GitHub page. 
+### Welcome on ma GitHub page 👋
 
-Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
 
-All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science.
 
-You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
+#### Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
+
+#### All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science.
+
+#### You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif" alt="Pacman" />  
+</p>
+
+
+
+
+
+
+
+<!--
+**isabelleysseric/isabelleysseric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+http://inspirationfeeed.files.wordpress.com/2013/08/racespin1.gif
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/a4/c1/32/a4c132ada8c1797c0cbd93d8609a9ac4.gif" alt="Welcome" />  
 </p>
 
-<!--
-**isabelleysseric/isabelleysseric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋
+<p align="center">
+  <img src="https://media2.giphy.com/media/Lny6Rw04nsOOc/200w.gif?cid=82a1493by4fdkyggb135ty2waapgckh9fxq6wl30gz3aa5im&rid=200w.gif&ct=g" alt="Welcome" />
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
