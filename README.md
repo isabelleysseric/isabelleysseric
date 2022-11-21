@@ -41,6 +41,12 @@ Graduated with a bachelor's degree in computer science with a concentration in i
 
 
 <!--
+Create Badge on Readme
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+Simple Icons
+https://simpleicons.org/
+https://shields.io/
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
 
 <picture>
