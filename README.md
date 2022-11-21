@@ -28,13 +28,17 @@ A Artificial Intelligence developer from Montreal in Canada.
   <a href="https://github.com/isabelleysseric/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
   </a>
-  <!-- LinkedIn-->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/isabelle-eysseric/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
-  <!-- Docker-->
-  <a href="https://www.linkedin.com/in/isabelle-eysseric/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo={Docker}&logoColor=#2496ed" >
+  <!-- Docker -->
+  <a href="https://hub.docker.com/u/isabelleysseric">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo={docker}&logoColor=#2496ed" >
+  </a>
+  <!-- Portfollio -->
+  <a href="https://isabelleysseric.com/en_resume.html">
+    <img src="https://img.shields.io/badge/Portfollio-2496ED?style=for-the-badge&logo={Portfollio}&logoColor=black" >
   </a>
 </p>
 
