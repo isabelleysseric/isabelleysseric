@@ -1,11 +1,13 @@
 ## Welcome to my GitHub page 👋
 
-### Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" />
+</p>
+<!--
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric)
+-->
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" />
+### Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
 
 ### All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 
