@@ -1,5 +1,10 @@
 ## <center>Hi there, I'm Isabelle 👋</center>
 
+<h1 align="center">
+    Hi there, I'm Isabelle 👋<br/>
+    <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">
+</h1>
+
 <p align="center">
     A Artificial Intelligence developer from Montreal in Canada.<br/>
     
@@ -24,8 +29,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
   <br/>
-    
-  <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">
 </p>
 
 <p align="justify">
