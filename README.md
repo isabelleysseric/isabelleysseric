@@ -1,21 +1,8 @@
 ## <center>Hi there, I'm Isabelle 👋</center>
 
 <p align="center">
-    A Artificial Intelligence developer from Montreal in Canada.
-    <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">
-</p>
-
-<p align="justify">
-Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" /> <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
-</p>
-
-<p align="center">
-  My contact info<br/>
+    A Artificial Intelligence developer from Montreal in Canada.<br/>
+    
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
@@ -36,8 +23,18 @@ Graduated with a bachelor's degree in computer science with a concentration in i
   <a href="mailto: isabelleysseric@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
+    
+  <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">
 </p>
 
+<p align="justify">
+Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" /> <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
+</p>
 
 
 <!--
