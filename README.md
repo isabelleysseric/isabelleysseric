@@ -2,6 +2,27 @@
 
 A Artificial Intelligence developer from Montreal in Canada.
 
+<style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 100%
+      }
+      .image {
+        flex-basis: 70%;
+        order: 2;
+      }
+      .text {
+        color: #CD5C5C;
+        padding-left: 20px;
+        font: italic 10px "Fira Sans", serif;
+      }
+</style>
+    
+
 <div class="container">
   <div class="image">
     <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">  
@@ -10,12 +31,6 @@ A Artificial Intelligence developer from Montreal in Canada.
     <p>Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.</p>
   </div>
 </div>
-
-<p align="justify">
-  <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129"/>  
-  Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.<br/>
-  All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.<br/>
-</p>
 <br/>
 
 <p align="center">
