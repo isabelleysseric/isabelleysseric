@@ -22,11 +22,11 @@ A Artificial Intelligence developer from Montreal in Canada.
   </a>
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
-    <img src="https://img.shields.io/badge/GitHub-bfbfbf?style=for-the-badge&logo=github&logoColor=white" >
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
   </a>
   <!-- Portfollio -->
   <a href="https://isabelleysseric.com/en_resume.html">
-    <img src="https://img.shields.io/badge/Portfollio-100000?style=for-the-badge&logo={Portfollio}&logoColor=white" >
+    <img src="https://img.shields.io/badge/Portfollio-bfbfbf?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/isabelle-eysseric/">
