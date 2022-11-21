@@ -1,4 +1,6 @@
-## Welcome to my GitHub page 👋
+## Hi there, I'm Isabelle 👋
+
+A Artificial Intelligence developer from Montreal in Canada.
 
 <p align="justify">
   <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129"/>  
@@ -9,7 +11,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
 </p>
+
+
 
 
 <!--
