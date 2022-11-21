@@ -10,10 +10,33 @@ A Artificial Intelligence developer from Montreal in Canada.
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" /> <br/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
 </p>
 
+<p align="center">
+  My contact info<br/>
+  <!-- GMAIL -->
+  <a href="mailto: isabelleysseric@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a>
+  <!-- GitHub Pages -->
+  <a href="https://isabelleysseric.com/en_resume.html">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" >
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/isabelleysseric/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+  </a>
+  <!-- LinkedIn-->
+  <a href="https://www.linkedin.com/in/isabelle-eysseric/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <!-- Docker-->
+  <a href="https://www.linkedin.com/in/isabelle-eysseric/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo={Docker}&logoColor=#2496ed" >
+  </a>
+</p>
 
 
 
