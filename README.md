@@ -4,10 +4,10 @@ A Artificial Intelligence developer from Montreal in Canada.
 
 <div class="container">
   <div class="image">
-    <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg">
+    <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">  
   </div>
   <div class="text">
-    <h1>Paris is one of the most beautiful cities in France.</h1>
+    <p>Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.</p>
   </div>
 </div>
 
