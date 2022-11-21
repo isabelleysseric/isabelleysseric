@@ -1,11 +1,10 @@
+## <center>Hi there, I'm Isabelle 👋</center>
+
 <p align="center">
-## Hi there, I'm Isabelle 👋
-
-A Artificial Intelligence developer from Montreal in Canada.
-    
-
+    A Artificial Intelligence developer from Montreal in Canada.
     <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">
 </p>
+
 <p align="justify">
 Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 </p>
