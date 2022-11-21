@@ -20,13 +20,13 @@ A Artificial Intelligence developer from Montreal in Canada.
   <a href="mailto: isabelleysseric@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
-  <!-- GitHub Pages -->
-  <a href="https://isabelleysseric.com/en_resume.html">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" >
-  </a>
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+    <img src="https://img.shields.io/badge/GitHub-bfbfbf?style=for-the-badge&logo=github&logoColor=white" >
+  </a>
+  <!-- Portfollio -->
+  <a href="https://isabelleysseric.com/en_resume.html">
+    <img src="https://img.shields.io/badge/Portfollio-100000?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/isabelle-eysseric/">
@@ -35,10 +35,6 @@ A Artificial Intelligence developer from Montreal in Canada.
   <!-- Docker -->
   <a href="https://hub.docker.com/u/isabelleysseric">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo={docker}&logoColor=#2496ed" >
-  </a>
-  <!-- Portfollio -->
-  <a href="https://isabelleysseric.com/en_resume.html">
-    <img src="https://img.shields.io/badge/Portfollio-100000?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
 </p>
 
