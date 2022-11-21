@@ -38,7 +38,7 @@ A Artificial Intelligence developer from Montreal in Canada.
   </a>
   <!-- Portfollio -->
   <a href="https://isabelleysseric.com/en_resume.html">
-    <img src="https://img.shields.io/badge/Portfollio-2496ED?style=for-the-badge&logo={Portfollio}&logoColor=black" >
+    <img src="https://img.shields.io/badge/Portfollio-100000?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
 </p>
 
