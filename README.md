@@ -2,6 +2,8 @@
 
 ### Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={isabelleysseric}
+
 ### All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 
 <p align="center">
