@@ -5,7 +5,7 @@
 
 
 <h2 align="center">
-    A Artificial Intelligence developer from Montreal, Canada.<br/><br/>
+    An Artificial Intelligence developer from Montreal, Canada.<br/><br/>
     
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
