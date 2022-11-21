@@ -16,10 +16,6 @@ A Artificial Intelligence developer from Montreal in Canada.
 
 <p align="center">
   My contact info<br/>
-  <!-- GMAIL -->
-  <a href="mailto: isabelleysseric@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-  </a>
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
@@ -35,6 +31,10 @@ A Artificial Intelligence developer from Montreal in Canada.
   <!-- Docker -->
   <a href="https://hub.docker.com/u/isabelleysseric">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo={docker}&logoColor=#2496ed" >
+  </a>
+  <!-- GMAIL -->
+  <a href="mailto: isabelleysseric@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
 </p>
 
