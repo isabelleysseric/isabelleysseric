@@ -1,11 +1,11 @@
 <h1 align="center">
-    Hi there, I'm Isabelle Eysseric 👋<br/>
+    Hi there, I'm Isabelle Eysseric 👋<br/><br/>
     <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129"><br/>
 </h1>
 
 
 <h2 align="center">
-    A Artificial Intelligence developer from Montreal, Canada.<br/>
+    A Artificial Intelligence developer from Montreal, Canada.<br/><br/>
     
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
