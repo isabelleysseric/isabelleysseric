@@ -23,6 +23,7 @@
   <a href="mailto: isabelleysseric@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
+  <br/>
     
   <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129">
 </p>
@@ -32,12 +33,13 @@ Graduated with a bachelor's degree in computer science with a concentration in i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" /> <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" /><br/>
 </p>
 
 
 <!--
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabelleysseric1212%2Fhit-counter" />
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
