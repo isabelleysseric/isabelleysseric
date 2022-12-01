@@ -35,8 +35,8 @@ Graduated with a bachelor's degree in computer science with a concentration in i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelleysseric" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelleysseric" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric" height="100" />
 </p>
 
 
