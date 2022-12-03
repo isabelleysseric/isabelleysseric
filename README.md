@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Portfollio-bfbfbf?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/isabelle-eysseric/">
+  <a href="https://www.linkedin.com/in/isabelleysseric/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   <!-- Docker -->
