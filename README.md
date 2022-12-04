@@ -35,7 +35,7 @@
 
  
 <h3 align="center">   
-    Graduated with a bachelor's degree in **computer science** with a concentration in **Artificial Intelligence** from Laval University, Quebec, Canada in fall 2022.<br/><br/>
+    Graduated with a bachelor's degree in <b>computer science</b> with a concentration in <b>Artificial Intelligence</b> from Laval University, Quebec, Canada in fall 2022.<br/><br/>
 </h3>
 
 <p align="justify">    
