@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
   </a>
   <!-- Portfollio -->
-  <a href="https://isabelleysseric.com/en_resume.html">
+  <a href="https://isabelleysseric.com/Resume.html">
     <img src="https://img.shields.io/badge/Portfollio-bfbfbf?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
   <!-- LinkedIn -->
