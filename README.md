@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-    AI Developer | Specialist in Computer Vision (CV) and Natural Language Processing (NLP) <br/><br/>
+    AI Developer | Specialist in Computer Vision (CV), Natural Language Processing (NLP) and Machine Learning (ML)<br/><br/>
 </h1>
  
 <h2 align="center">    
