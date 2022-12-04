@@ -31,10 +31,14 @@
   </a>
   <br/><br/>
 </h2>
-  
-<p align="justify">
-Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.<br/><br/>
-    
+
+
+ 
+<h3 align="center">   
+    Graduated with a bachelor's degree in **computer science** with a concentration in **Artificial Intelligence** from Laval University, Quebec, Canada in fall 2022.<br/><br/>
+</h3>
+
+<p align="justify">    
 All my projects are in artificial intelligence, more specifically in Computer Vision (CV), Natural Language Processing (NLP) and Machine learning. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 </p>
 
