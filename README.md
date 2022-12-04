@@ -1,12 +1,14 @@
 <h1 align="center">
-    Hi there, I'm Isabelle Eysseric 👋<br/><br/>
+    Hi there, I'm Isabelle Eysseric from Montreal, Canada 👋<br/><br/>
     <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" alt="Pacman" width="207" height="129"><br/>
 </h1>
 
 
-<h2 align="center">
-    An Artificial Intelligence developer from Montreal, Canada.<br/><br/>
-    
+<h1 align="center">
+    AI Developer | Specialist in Computer Vision (CV) and Natural Language Processing (NLP) <br/><br/>
+</h1>
+ 
+<h2 align="center">    
   <!-- GitHub -->
   <a href="https://github.com/isabelleysseric/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
@@ -31,7 +33,9 @@
 </h2>
   
 <p align="justify">
-Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.All my projects are in artificial intelligence, more specifically in computer vision, language processing and data science. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
+Graduated with a bachelor's degree in computer science with a concentration in intelligent systems from Laval University, Quebec, Canada.<br/><br/>
+    
+All my projects are in artificial intelligence, more specifically in Computer Vision (CV), Natural Language Processing (NLP) and Machine learning. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 </p>
 
 <p align="center">
