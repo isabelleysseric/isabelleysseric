@@ -39,7 +39,7 @@
 </h3>
 
 <p align="justify">    
-All my projects are in artificial intelligence, more specifically in Computer Vision (CV), Natural Language Processing (NLP) and Machine learning. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
+All my projects are in <b>Artificial Intelligence</b>, more specifically in <b>Computer Vision</b> (CV), <b>Natural Language Processing</b> (NLP) and <b>Machine learning</b>. You can see the six biggest pinned projects on this page but all the projects are in the repositories section.
 </p>
 
 <p align="center">
