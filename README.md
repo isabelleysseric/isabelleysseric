@@ -19,7 +19,7 @@
   </a>
   <!-- AI Page -->
   <a href="https://isabelleysseric.ai/">
-    <img src="https://img.shields.io/badge/AI-Blog-blue" >
+    <img src="https://img.shields.io/badge/AI-Blog-blue?style=for-the-badge&logo={AI-Blog}&logoColor=white" >
   </a>
     
 
