@@ -108,13 +108,3 @@ Here are some ideas to get you started:
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleysseric)
 -->
 
-<p align='center'>
-  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
-  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
-  &nbsp; • &nbsp;<a href="https://isabelleysseric.ai/">isabelleysseric.ai</a> (Projects) <br/>
-  <a href="https://www.linkedin.com/in/isabelleysseric/">isabelleysseric</a> (LinkedIn)
-  &nbsp; • &nbsp;<a href="https://hub.docker.com/u/isabelleysseric">isabelleysseric</a> (Docker Hub)
-  &nbsp; • &nbsp;<a href="https://app.gazebosim.org/isabelleeysseric">isabelleysseric</a> (Gazebo Sim)<br/>
-</p>
-<br/>
-<br/>
