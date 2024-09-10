@@ -32,7 +32,7 @@
   
   <!-- Docker Hub-->
   <a href="https://hub.docker.com/u/isabelleysseric">
-    <img src="https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo={docker hub}&logoColor=#2496ed" >
+    <img src="https://img.shields.io/badge/Docker-2496ED-Hub-2496ED?style=for-the-badge&logo={docker hub}&logoColor=#2496ed" >
   </a>
   
   <!-- GMAIL -->
